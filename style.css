@@ -1,0 +1,10 @@
+div{
+  background-color: blue;
+  color:white;
+  width:300px;
+  margin:auto;
+  padding:26px;
+  font-size:30px;
+  font-family:verdana;
+  overflow:auto;
+}
